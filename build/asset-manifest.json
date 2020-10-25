@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.js": "/react-taobao/build/static/js/main.347a3125.chunk.js",
+    "main.js.map": "/react-taobao/build/static/js/main.347a3125.chunk.js.map",
+    "runtime-main.js": "/react-taobao/build/static/js/runtime-main.b6b9f60a.js",
+    "runtime-main.js.map": "/react-taobao/build/static/js/runtime-main.b6b9f60a.js.map",
+    "static/css/2.3786585f.chunk.css": "/react-taobao/build/static/css/2.3786585f.chunk.css",
+    "static/js/2.811c5eda.chunk.js": "/react-taobao/build/static/js/2.811c5eda.chunk.js",
+    "static/js/2.811c5eda.chunk.js.map": "/react-taobao/build/static/js/2.811c5eda.chunk.js.map",
+    "index.html": "/react-taobao/build/index.html",
+    "precache-manifest.228efb69c88c1c56b738e7926ce46a5c.js": "/react-taobao/build/precache-manifest.228efb69c88c1c56b738e7926ce46a5c.js",
+    "service-worker.js": "/react-taobao/build/service-worker.js",
+    "static/css/2.3786585f.chunk.css.map": "/react-taobao/build/static/css/2.3786585f.chunk.css.map",
+    "static/js/2.811c5eda.chunk.js.LICENSE.txt": "/react-taobao/build/static/js/2.811c5eda.chunk.js.LICENSE.txt",
+    "static/media/1.webp": "/react-taobao/build/static/media/1.37a16a47.webp",
+    "static/media/10.webp": "/react-taobao/build/static/media/10.0e7c0b7f.webp",
+    "static/media/2.webp": "/react-taobao/build/static/media/2.48b7d31d.webp",
+    "static/media/3.webp": "/react-taobao/build/static/media/3.fa250acc.webp",
+    "static/media/4.webp": "/react-taobao/build/static/media/4.ceab73bd.webp",
+    "static/media/5.webp": "/react-taobao/build/static/media/5.5896f675.webp",
+    "static/media/6.webp": "/react-taobao/build/static/media/6.37454538.webp",
+    "static/media/7.webp": "/react-taobao/build/static/media/7.e4e9777f.webp",
+    "static/media/8.webp": "/react-taobao/build/static/media/8.22d9e8af.webp",
+    "static/media/9.webp": "/react-taobao/build/static/media/9.7b74c3c1.webp"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b6b9f60a.js",
+    "static/css/2.3786585f.chunk.css",
+    "static/js/2.811c5eda.chunk.js",
+    "static/js/main.347a3125.chunk.js"
+  ]
+}
